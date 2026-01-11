@@ -49,3 +49,5 @@ architecture capable of understanding contextual relationships in text.
 
 ---
 
+
+> Note: If the notebook preview does not render on GitHub, please download the `.ipynb` file and open it in Google Colab.
